@@ -1,4 +1,4 @@
-Gestão de Artefatos em Projetos de Software
+Gestão de Artefatos em Projetos de Software<br>
 📌 Sobre o Projeto
 Este repositório foi criado como parte da atividade prática de gestão de configuração na disciplina Projeto de Software. O objetivo é armazenar e gerenciar artefatos essenciais para o desenvolvimento de software, garantindo organização, rastreabilidade e versionamento adequado.
 
