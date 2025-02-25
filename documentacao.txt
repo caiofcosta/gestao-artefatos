@@ -1,2 +1,10 @@
-Este é um arquivo de teste para a atividade de gestão de configuração.
-Ele serve como um artefato armazenado no repositório.
+ Benefícios do Repositório de Gestão de Configuração
+Controle de Versão: Mantém um histórico de todas as alterações nos artefatos do projeto.
+Colaboração: Permite que vários desenvolvedores trabalhem no mesmo projeto sem conflitos.
+Rastreabilidade: Facilita o acompanhamento de modificações e tomadas de decisão.
+Organização: Centraliza documentos essenciais do projeto, como requisitos, diagramas e código-fonte.
+Governança e Compliance: Atende às boas práticas de ITIL, COBIT e ESG, garantindo um ambiente controlado.
+
+Reflexão sobre o Aprendizado
+Durante esta prática, aprendi a importância de utilizar uma ferramenta de gestão de configuração para armazenar e organizar os artefatos do projeto. O uso do repositório permite um controle eficiente de versões, reduzindo erros e melhorando a colaboração entre os membros da equipe. Além disso, essa prática se alinha aos princípios de Governança de TI, garantindo maior transparência e conformidade com as normas organizacionais.
+
